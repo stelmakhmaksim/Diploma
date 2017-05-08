@@ -10,13 +10,10 @@ import java.sql.Statement;
 public class main {
     public static void main(String[] args) throws Exception {
         FileApp file = new FileApp();
-        file.write("example.txt", "Vladimir Putin was born in St. Petersburg in 1952 . Obama met with the Russian president at the Climate Conference in Paris on November 15, 2015.");
-        //file.read("example.txt");//файл с примером разбора предложения
-        //file.read("articles.txt");//файл с текстами
-        //file.delete("example.txt");
+        //file.write("example.txt","Marine LePen, the French far right’s presidential candidate, and V. Putin on Friday met in the Kremlin on Friday where they discussed issues of concern.");
         OpenIE ie = new OpenIE();
         ie.openIE(file.read("example.txt"));//извлечение фактов из документа
-
+        //file.delete("example.txt");
 ////////////////////////////////////////////////////////////////////////////////////////////////
         //запросы через preparemedStatement, ввод, вывод, удаление
         /*final String INSERT ="INSERT INTO facts VALUES (?,?,?,?,?,?,?)";
