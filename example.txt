@@ -1,0 +1,60 @@
+Marine LePen, the French far right’s presidential candidate, and V. Putin on Friday met in the Kremlin on Friday where they discussed issues of concern.
+Obama and Merkel will meet with the Russian president at the Climate Conference in Paris on November 15, 2017.
+PepsiCo, Walmart, Starbucks on Friday have suspended their advertising on YouTube, joining a growing boycott Google can to prevent marketing campaigns.
+Trump blames Democrats for GOP health care bill failure. President Trump  replace ObamaCare on August 15, 2017.
+Leaders of European Union countries  are meeting in the Rome to celebrate 60 years Treaty of Rome was signed. The countries will sign a new declaration to honour the 1957 treaty.
+Belarus may borrow more than $3billion IMF.
+On May 9, St. Petersburg will celebrate the Day of Victory over Nazi Germany, the celebrations start at 10:00 with a huge military parade.
+
+Extracted events:
+Event:1
+1	they	issues of	concern
+2	Marine LePen	candidate 's	right
+3	Marine LePen	met in	Kremlin
+4	they	discussed	issues of concern
+5	Marine LePen	candidate on	Friday
+6	they	discussed	issues
+Event:2
+1	Merkel	will meet at	Climate Conference on November 15 2017
+2	Obama	will meet at	Climate Conference in Paris
+3	Merkel	will meet with	Russian president
+4	Obama	will meet at	Climate Conference
+5	Merkel	will meet at	Climate Conference in Paris on November 15 2017
+6	Obama	will meet with	president
+7	Obama	will meet at	Climate Conference on November 15 2017
+8	Climate Conference	is in	Paris
+9	Obama	will meet at	Climate Conference in Paris on November 15 2017
+10	Obama	will meet with	Russian president
+11	Merkel	will meet at	Climate Conference
+12	Merkel	will meet at	Climate Conference in Paris
+13	Merkel	will meet with	president
+Event:3
+1	PepsiCo	is	Walmart
+2	boycott Google	prevent	marketing campaigns
+3	Starbucks	have suspended	their advertising
+4	growing boycott Google	prevent	marketing campaigns
+5	Starbucks	have suspended	their advertising on YouTube
+Event:4
+1	Trump	blames	Democrats
+2	Trump	blames Democrats for	GOP health care bill failure
+Event:5
+1	President Trump	replace ObamaCare on	August 15 2017
+2	President Trump	replace	ObamaCare
+Event:6
+1	Treaty	was	signed
+2	Leaders	are meeting in	Rome
+Event:7
+Event:8
+1	Belarus	may borrow	IMF
+2	Belarus	may borrow	$ 3billion IMF
+3	IMF	is	$ 3billion
+Event:9
+1	St. Petersburg	will celebrate	Day of Victory
+2	celebrations	start with	parade
+3	St. Petersburg	will celebrate	Day
+4	celebrations	start with	huge military parade
+5	celebrations	start with	military parade
+6	St. Petersburg	will celebrate Day over	Nazi Germany
+7	celebrations	start at	10:00
+8	celebrations	start with	huge parade
+9	St. Petersburg	will celebrate Day On	May 9
